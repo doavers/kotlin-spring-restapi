@@ -1,4 +1,4 @@
-package com.doavers.testkotlin
+package com.doavers.kotilnrestapi
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
